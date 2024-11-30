@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #343a40;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.img-fluid {
+    border: 2px solid #6c757d;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #343a40;
+}
